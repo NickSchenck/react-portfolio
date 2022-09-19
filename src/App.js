@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React, { useState } from 'react';
 import Nav from './components/Nav';
 import About from './components/About';
@@ -35,6 +36,19 @@ function App() {
         ) : (
           <ContactForm></ContactForm>
         )}
+=======
+import React from 'react';
+import Nav from './components/Nav';
+import About from './components/About';
+
+function App() {
+
+  return (
+    <div>
+      <Nav />
+      <main>
+          <About />        
+>>>>>>> 8322d0aefcbccfa5e917c0328de7333be3df8c42
       </main>
     </div>
   );
