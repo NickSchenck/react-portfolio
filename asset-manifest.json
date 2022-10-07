@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.90e75332.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.b4f01ceb.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.b4f01ceb.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.a987f750.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.a987f750.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.97c4b118.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.97c4b118.js.map",
     "static/js/2.00456d1c.chunk.js": "/react-portfolio/static/js/2.00456d1c.chunk.js",
@@ -14,12 +14,13 @@
     "static/js/2.00456d1c.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.00456d1c.chunk.js.LICENSE.txt",
     "static/media/Boozy-Books.49fded66.png": "/react-portfolio/static/media/Boozy-Books.49fded66.png",
     "static/media/Nick.1ad6d0fc.jpg": "/react-portfolio/static/media/Nick.1ad6d0fc.jpg",
-    "static/media/fictional-guacamole.4c173948.png": "/react-portfolio/static/media/fictional-guacamole.4c173948.png"
+    "static/media/fictional-guacamole.4c173948.png": "/react-portfolio/static/media/fictional-guacamole.4c173948.png",
+    "static/media/whats-soap.f01e0a3c.PNG": "/react-portfolio/static/media/whats-soap.f01e0a3c.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.97c4b118.js",
     "static/js/2.00456d1c.chunk.js",
     "static/css/main.90e75332.chunk.css",
-    "static/js/main.b4f01ceb.chunk.js"
+    "static/js/main.a987f750.chunk.js"
   ]
 }
